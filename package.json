@@ -1,0 +1,19 @@
+{
+  "name": "zadaca",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magbulam/js-tools-and-workflow.git"
+  },
+  "author": "Magbula Music",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magbulam/js-tools-and-workflow/issues"
+  },
+  "homepage": "https://github.com/Magbulam/js-tools-and-workflow#readme"
+}
